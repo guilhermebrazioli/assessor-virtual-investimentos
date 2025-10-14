@@ -11,18 +11,8 @@ Este repositório contém os artefatos de **validação de sistema** do projeto 
 
 ## 🔗 Links de Integração
 
-- **Azure Boards:** [Acompanhar backlog e sprints](https://dev.azure.com/ficticio/assessor-virtual-investimentos/_boards)
+- **Azure Boards:** [Acompanhar backlog e sprints](https://dev.azure.com/RM98237/Assessor%20Vitual%20de%20Investimentos)
 - **Demo (YouTube):** [Apresentação da Sprint 3 - QA & Automação](https://youtube.com/watch?v=XXXXXXXXXXX)
-
----
-
-## 🌱 Branch Strategy
-
-| Branch | Descrição |
-|--------|------------|
-| `main` | Releases validadas e estáveis |
-| `develop` | Integrações em andamento (QA e Dev) |
-| `feature/*` | Desenvolvimento de novas funcionalidades |
 
 ---
 
@@ -46,13 +36,13 @@ Este repositório contém os artefatos de **validação de sistema** do projeto 
 
     ---
 
-## 📎 4. Conteúdo dos links (para substituir depois)
+## 📎 4. Conteúdo dos links
 
 **`/docs/azure-boards-link.md`**
 ```markdown
 # Azure Boards – Integração
 
-🔗 [Acessar o board da sprint atual](https://dev.azure.com/ficticio/assessor-virtual-investimentos/_boards)
+🔗 [Acessar o board da sprint atual](https://dev.azure.com/RM98237/Assessor%20Vitual%20de%20Investimentos)
 
 Contém:
 - Backlog completo do projeto
