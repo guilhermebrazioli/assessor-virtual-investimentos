@@ -12,15 +12,7 @@ Este repositório contém os artefatos de **validação de sistema** do projeto 
 ## 🔗 Links de Integração
 
 - **Azure Boards:** [Acompanhar backlog e sprints](https://dev.azure.com/RM98237/Assessor%20Vitual%20de%20Investimentos)
-- **Demo (YouTube):** [Apresentação da Sprint 3 - QA & Automação](https://youtube.com/watch?v=XXXXXXXXXXX)
-
----
-
-## 🧩 Estrutura
-
-/docs           → Documentação dos testes e links de referência
-/postman        → Coleções e ambientes mockados
-/scripts        → Scripts de execução automatizada (Node.js / Newman)
+- **Demo (YouTube):** [Apresentação da Sprint 3 - QA & Automação](https://youtu.be/neR8oLFZ8OM)
 
 ---
 
@@ -36,7 +28,7 @@ Este repositório contém os artefatos de **validação de sistema** do projeto 
 
     ---
 
-## 📎 4. Conteúdo dos links
+## 📎. Conteúdo dos links
 
 **`/docs/azure-boards-link.md`**
 ```markdown
@@ -51,7 +43,7 @@ Contém:
 
 # Vídeo Demo (Sprint 3)
 
-🎥 [Assistir no YouTube](https://youtube.com/watch?v=XXXXXXXXXXX)
+🎥 [Assistir no YouTube](https://youtu.be/neR8oLFZ8OM)
 
 Nesta demo apresentamos:
 - Automação de testes com Postman
